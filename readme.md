@@ -15,3 +15,6 @@ which installs the md5 depency then the second command runs the program (Note: y
 
 Then you can go to `./configs/config.json` and edit the username, salt and password.
 as well as add more words to the `./configs/list.json` if you would like.
+
+### Note
+I assume the format `username:salt:password` 
